@@ -22,7 +22,7 @@ from scratch.
 ## Installation
 
 Use [HACS](https://github.com/custom-components/hacs) (recommended)
-or download [dual-gauge-card.js](https://github.com/custom-cards/dual-gauge-card/raw/master/dual-gauge-card.js) and place it in your www directory.
+or download [dual-gauge-card.js](https://github.com/Wallabeng/dual-gauge-card/blob/master/dual-gauge-card.js) and place it in your www directory.
 
 In your ui-lovelace.yaml add this:
 ```yaml
