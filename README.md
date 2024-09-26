@@ -1,11 +1,4 @@
 # Dual gauge card
-
-> [!IMPORTANT]
-> **Looking for new maintainer!**
-> 
-> I can't find the time or inspiration to take care of this project anymore.  
-> So if you'd like to become the new maintainer of this project please let me know via a Pull request!
-
   
 Two gauges in one, built mostly with CSS.
 
@@ -22,7 +15,7 @@ from scratch.
 ## Installation
 
 Use [HACS](https://github.com/custom-components/hacs) (recommended)
-or download [dual-gauge-card.js](https://github.com/Wallabeng/dual-gauge-card/blob/master/dual-gauge-card.js) and place it in your www directory.
+or download [dual-gauge-card.js](https://raw.githubusercontent.com/Wallabeng/dual-gauge-card/refs/heads/master/dual-gauge-card.js) and place it in your www directory.
 
 In your ui-lovelace.yaml add this:
 ```yaml
